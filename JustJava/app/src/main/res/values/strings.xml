@@ -1,10 +1,16 @@
 <resources>
-    <string name="app_name">Just Java</string>
+    <string name="app_name" translatable="false">Just Java</string>
     <string name="quantity">quantity</string>
-    <string name="minus">-</string>
-    <string name="count">1</string>
-    <string name="plus">+</string>
-    <string name="price">price</string>
-    <string name="price_val">"Total: $%1$d\nThank you!"</string>
-    <string name="order">order</string>
+    <string name="minus" translatable="false">-</string>
+    <string name="count" translatable="false">1</string>
+    <string name="plus" translatable="false">+</string>
+    <string name="answer_yes">yes</string>
+    <string name="answer_no">no</string>
+    <string name="price_val">Name: %1$s \nAdd whipped cream: %2$s  \nAdd chocolate: %3$s  \nQuantity: %4$d  \nTotal: $%5$d  \nThank you!</string>
+    <string name="order">price</string>
+    <string name="order_summary">order summary</string>
+    <string name="whipped_cream">Whipped cream</string>
+    <string name="toppings">toppings</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="name">Name</string>
 </resources>
