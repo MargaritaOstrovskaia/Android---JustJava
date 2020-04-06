@@ -2,6 +2,8 @@
 
 Project designed from practice sets from Udacity Android Developers course "**Android Basics by Google Nanodegree Program**".
 
+<img src="https://github.com/MargaritaOstrovskaia/Android---JustJava/blob/master/screenshots/phone.png" height="50%" width="50%">
+
 My notes:
 - [Add icon in App](https://github.com/MargaritaOstrovskaia/Android---JustJava/wiki/Add-icon-in-App)
 - [Color.xml](https://github.com/MargaritaOstrovskaia/Android---JustJava/wiki/Color.xml)
