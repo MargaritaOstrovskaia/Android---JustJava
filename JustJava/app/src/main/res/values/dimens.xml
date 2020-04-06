@@ -4,6 +4,6 @@
     <dimen name="left_padding">24dp</dimen>
     <dimen name="btn_size">48dp</dimen>
     <dimen name="count_padding">8dp</dimen>
-    <dimen name="top_margin">16dp</dimen>
-    <dimen name="bottom_margin">8dp</dimen>
+    <dimen name="top_margin">12dp</dimen>
+    <dimen name="bottom_margin">6dp</dimen>
 </resources>
