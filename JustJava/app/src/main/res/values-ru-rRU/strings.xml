@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="quantity">количество</string>
-    <string name="order">цена</string>
+    <string name="order">отправка заказа</string>
     <string name="toppings">топпинги</string>
     <string name="chocolate">Шоколад</string>
     <string name="name">Имя</string>
@@ -10,4 +10,6 @@
     <string name="price_val">Имя: %1$s \nДобавить взбитые сливки: %2$s \nДобавить шоколад: %3$s \nКолличество: %4$d \nИтог: $%5$d \nСпасибо!</string>
     <string name="answer_yes">да</string>
     <string name="answer_no">нет</string>
+    <string name="coffee_image">картинка с кофе</string>
+    <string name="price">Цена</string>
 </resources>

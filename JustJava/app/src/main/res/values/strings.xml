@@ -7,10 +7,14 @@
     <string name="answer_yes">yes</string>
     <string name="answer_no">no</string>
     <string name="price_val">Name: %1$s \nAdd whipped cream: %2$s  \nAdd chocolate: %3$s  \nQuantity: %4$d  \nTotal: $%5$d  \nThank you!</string>
-    <string name="order">price</string>
+    <string name="order">send order</string>
     <string name="order_summary">order summary</string>
     <string name="whipped_cream">Whipped cream</string>
     <string name="toppings">toppings</string>
     <string name="chocolate">Chocolate</string>
     <string name="name">Name</string>
+    <string name="coffee_image">coffee image</string>
+    <string name="coffee_order" translatable="false">Coffee Order</string>
+    <string name="price">Price</string>
+    <string name="total_price" translatable="false">$%1$d.00</string>
 </resources>
