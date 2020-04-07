@@ -1,3 +1,4 @@
+# Coffee order
 <br>Single screen app that allows users to create a coffee order. The order is exported to an email.</br>
 
 Project designed from practice sets from Udacity Android Developers course "**Android Basics by Google Nanodegree Program**".
